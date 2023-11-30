@@ -1,4 +1,5 @@
 package casoTrabajador2.Datos;
 
-public class DatosEmpresa implements FuentesDatosEmpresa {
+public abstract class DatosEmpresa implements FuentesDatosEmpresa {
+
 }

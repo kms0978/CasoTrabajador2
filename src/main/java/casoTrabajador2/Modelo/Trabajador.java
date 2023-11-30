@@ -25,8 +25,7 @@ public class Trabajador extends Persona implements FuentesDatosTrabajador {
 	}
 
 	public void mostrarDatosTrabajador() {
-		// TODO - implement Trabajador.mostrarDatosTrabajador
-		throw new UnsupportedOperationException();
+
 	}
 
 }
